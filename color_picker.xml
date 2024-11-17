@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.1.1.5">
+    <UserPlugin Name="color_picker" Guid="DA A7 50 78 7D 87 80 09 03 4E 55 F7 25 FB F3 10" Version="0.0.0.0" Path="color_picker">
+        <ComponentLua Name="main" Guid="DA A7 50 78 BE B5 80 09 6A 2B 90 E6 6D 83 D3 32" FileName="main.lua" />
+    </UserPlugin>
+</GMA3>
